@@ -1,10 +1,3 @@
-// swiftlint:disable all
-// Constants.swift
-// Lisa-Marie-Schiffner-App
-//
-// Created by Aman on 21/09/22.
-// Copyright © 2022 Codemenschen GmbH- Codemenschen.at. All rights reserved.
-//
 
 import Foundation
 

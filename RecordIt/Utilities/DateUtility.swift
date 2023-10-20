@@ -1,10 +1,3 @@
-//
-//  DateUtility.swift
-//  Lisa-Marie-Schiffner-App
-//
-//  Created by Mac on 12/10/22.
-//  Copyright © 2022 Codemenschen GmbH- Codemenschen.at. All rights reserved.
-//
 
 import Foundation
 
